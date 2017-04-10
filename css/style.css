@@ -1,0 +1,14 @@
+.container-fluid {
+  background-color: #0A1612;
+}
+
+.well {
+  background-color: #1A2930;
+  border-color: #1A2930;
+  margin-top: 30px;
+  color: #C5C1C0;
+}
+
+#toggleUnit {
+  margin-top: 20px; 
+}
